@@ -15,12 +15,10 @@ WidgetLED led3(V1);
 
 int ss = 0;
 
-char auth[] = "7777f3e6d8a2453c81fbde8ad1a697df";
+char auth[] = "<##blynk authen token##>";
 
-//const char* ssid = "it315";
-//const char* password = "it315_it_44150";
-const char* ssid = "Mrolarik";
-const char* password = "olarik_home";
+const char* ssid = "<ssid name>";
+const char* password = "<password>";
  
 ESP8266WebServer server(80);   //instantiate server at port 80 (http port)
  
