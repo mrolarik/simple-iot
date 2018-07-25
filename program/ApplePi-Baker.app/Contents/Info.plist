@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleDisplayName</key>
+    <string>PiBaker</string>
+    <key>CFBundleName</key>
+    <string>PiBaker</string>
+    <key>CFBundleSpokenName</key>
+    <string>PiBaker</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.9.5</string>
+    <key>CFBundleVersion</key>
+    <string>1.9.5</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleExecutable</key>
+    <string>PiBaker</string>
+    <key>CFBundleIconFile</key>
+    <string>PiBaker.icns</string>
+    <key>CSResourcesFileMapped</key>
+    <true/>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>English</string>
+    <key>AppleMagnifiedMode</key>
+    <false/>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>CFBundleIdentifier</key>
+    <string>com.Tweaking4All.PiBaker</string>
+    <key>NSHumanReadableCopyright</key>
+    <string>Copyright © 2017 Hans Luijten. All rights reserved.</string>
+    <key>CFBundleSignature</key>
+    <string>????</string>
+</dict>
+</plist>
