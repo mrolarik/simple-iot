@@ -2,9 +2,9 @@ import microgear.client as netpie
 import base64, zlib, time
 import random
 
-key = 'ZKFCxN5skXCGqsG'
-secret = 'L54fMRJQOE0BYUPGNKdDrwPUS'
-app = 'olarikRPi'
+key = 'application/key'
+secret = 'application/secret'
+app = 'application/name/appid'
 
 netpie.create(key,secret,app,{'debugmode': True})
 
@@ -27,4 +27,3 @@ netpie.connect()
 while True:
 	netpie.chat("RPi",str(random.randint(0,100))+","+str(random.randint(0,50)))
 	time.sleep(2)
-
