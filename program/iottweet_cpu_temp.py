@@ -5,8 +5,8 @@ import os
 version = getversion()
 print(version)
 
-userid = '003061'
-key = 'lymgo0j8uwe1'
+userid = 'iottweet/user/id'
+key = 'iottweet/key'
 
 f = os.popen("sensors | grep Core")
 lines = tuple(f)
